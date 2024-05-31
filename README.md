@@ -19,7 +19,7 @@ I'm open to collaborating on projects that align with my interests and expertise
 
 ## 📫 How to Reach Me
 Let's connect and stay in touch! You can reach me via:
-- **Email**: basantadharala@example.com
+- **Email**: basantadc52@gmail.com
 - **LinkedIn**: www.linkedin.com/in/basanta-dharala
 
 
