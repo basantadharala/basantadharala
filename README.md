@@ -9,7 +9,7 @@ I'm passionate about technology, innovation, and continuous learning. My interes
 I'm constantly expanding my knowledge and skills. Right now, I'm focused on:
 - **Web Development**: Enhancing my skills in HTML, CSS, JavaScript, and modern frameworks.
 - **Data Science**: Exploring data analysis, machine learning, and AI.
-- **Cloud Computing**: Getting hands-on with AWS, Azure, and cloud-native technologies.
+
 
 ## 💞️ Collaboration
 I'm open to collaborating on projects that align with my interests and expertise. If you have an exciting project or an innovative idea, let's team up and make it a reality! Feel free to reach out for:
