@@ -7,14 +7,13 @@ I'm passionate about technology, innovation, and continuous learning. My interes
 
 ## 🌱 Currently Learning
 I'm constantly expanding my knowledge and skills. Right now, I'm focused on:
-- **Web Development**: Enhancing my skills in HTML, CSS, JavaScript, and modern frameworks.
+- **Web Development**: Enhancing my skills in HTML, CSS, JavaScript, and modern frameworks like Node j, Express Js etc.
 - **Data Science**: Exploring data analysis, machine learning, and AI.
 
 
 ## 💞️ Collaboration
 I'm open to collaborating on projects that align with my interests and expertise. If you have an exciting project or an innovative idea, let's team up and make it a reality! Feel free to reach out for:
 - Open Source Projects
-- Hackathons
 - Research and Development
 
 ## 📫 How to Reach Me
